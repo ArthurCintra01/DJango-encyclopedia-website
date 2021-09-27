@@ -17,3 +17,8 @@ execute dentro do diretorio do app:
 ```
 python manage.py runserver
 ```
+
+## Funcionamento:
+Segue abaixo o link do video mostrando as funcionalidades do projeto (audio em inglês).
+
+[video](https://youtu.be/zpz2w_Wc2nE)
